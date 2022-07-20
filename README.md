@@ -1,7 +1,7 @@
 <h1 align="center">Acme Fresh Hydroponic Farming</h1>
 
 
-<h3 align="center">The ER Diagram of our project:</h3>
+<!-- <h3 align="center">The ER Diagram of our project:</h3> -->
 
 
 <h3>Services:</h3>
